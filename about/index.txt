@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:"/aurumfx-orbit-preview/_next/static/chunks/1ua2kfq9s-me6.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:"/aurumfx-orbit-preview/_next/static/chunks/3zt_16xndew4w.js"
+6:I[22016,["$2","$5"],""]
+b:I[97367,["$2"],"OutletBoundary"]
+c:"$Sreact.suspense"
+e:"ViewportBoundary"
+f:I[97367,["$2"],"$e"]
+11:"MetadataBoundary"
+12:I[97367,["$2"],"$11"]
+14:I[68027,["$2"],"default",1]
+:HL["/aurumfx-orbit-preview/_next/static/chunks/2goeq51s__-fq.css","style"]
+8:X
+9:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$La",[["$","script","script-0",{"src":"/aurumfx-orbit-preview/_next/static/chunks/3zt_16xndew4w.js","async":true,"nonce":"$undefined"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":false,"v":null}}]]
+7:[["children",{"s":{"n":"slug","t":"c","k":"about","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$8"},"c":"$Q9"}]]
+0:{"P":null,"c":["","about",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aurumfx-orbit-preview/_next/static/chunks/2goeq51s__-fq.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/aurumfx-orbit-preview/_next/static/chunks/1ua2kfq9s-me6.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"min-h-screen flex flex-col items-center justify-center gap-8 px-6 text-center","children":[["$","h1",null,{"className":"text-6xl tracking-tight","children":"A different direction."}],["$","p",null,{"children":"This page hasn’t found its perspective yet."}],["$","$L6",null,{"className":"button","href":"/","children":"Back to AurumFX ↗"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],"p":false,"v":null},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$Lf",null,{"children":"$L10"}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":"$L13"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$14",[["$","link","0",{"rel":"stylesheet","href":"/aurumfx-orbit-preview/_next/static/chunks/2goeq51s__-fq.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"0o5CqIqd-hL4sEJNwfpj1"}
+:HL["/aurumfx-orbit-preview/brand/wordmark.svg","image"]
+8:C
+a:["$","main",null,{"className":"min-h-screen flex flex-col items-center justify-center text-center px-6 py-20","style":{"background":"radial-gradient(ellipse at center,#8a6a2418,transparent 65%)"},"children":[["$","$L6",null,{"href":"/","className":"mb-20","children":["$","img",null,{"src":"/aurumfx-orbit-preview/brand/wordmark.svg","alt":"AurumFX","width":"190","height":"38"}]}],["$","div",null,{"className":"eyebrow","children":"YOUR NEXT CHAPTER"}],["$","h1",null,{"className":"text-5xl md:text-7xl tracking-tight mb-6","children":"About"}],["$","p",null,{"className":"text-sm max-w-md","children":["A new perspective is taking shape.",["$","br",null,{}],"This page is coming soon. Explore the homepage while we prepare the next chapter."]}],["$","$L6",null,{"href":"/","className":"button mt-10","children":"Back to the experience ↗"}],["$","small",null,{"className":"mt-12 text-[8px] text-[#84735a]","children":"Independent demo concept. No live trading, deposits or payments."}],false]}]
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#08090B"}]]
+15:I[27201,["$2"],"IconMark"]
+d:null
+13:[["$","title","0",{"children":"AurumFX — Beyond the ordinary"}],["$","meta","1",{"name":"description","content":"A new perspective on global markets. Discover the AurumFX trading experience. Independent demonstration with simulated prices."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/aurumfx-orbit-preview/brand/favicon.svg"}],["$","$L15","4",{}]]
